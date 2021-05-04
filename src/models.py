@@ -57,8 +57,6 @@ class S3D(nn.Module):
         out = self.relu(self.conv5b(out))
         out = self.pool5(out)        
         
-        print(out.shape)
-        
         out = out.view(-1, torch.prod(torch.FloatTensor(list(out.shape)[1:]), dtype=torch.int))
         out = self.relu(self.fc6(out))
         out = self.dropout(out)
