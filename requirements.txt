@@ -1,0 +1,5 @@
+joblib==1.0.1
+pandas==1.2.3
+opencv-contrib-python==4.5.1.48
+torch==1.7.1
+torchsummary==1.5.1
