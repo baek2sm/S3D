@@ -25,8 +25,8 @@ class S3D(nn.Module):
         self.conv5a = nn.Conv3d(512, 512, kernel_size=(3, 3, 3), padding=(1, 1, 1))
         self.conv5b = nn.Conv3d(512, 512, kernel_size=(3, 3, 3), padding=(1, 1, 1))
         self.pool5 = nn.MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=(0, 1, 0))
-        self.se_fc1 = nn.Linear(512, 32)
-        self.se_fc2 = nn.Linear(32, 512)
+        self.se_fc1 = nn.Linear(512, 32, bias=False)
+        self.se_fc2 = nn.Linear(32, 512, bias=False)
         
         self.fc6 = nn.Linear(512*1*4*3, 4096) if not mini else nn.Linear(512*1*1*1, 4096)
         self.fc7 = nn.Linear(4096, 4096)
