@@ -8,5 +8,5 @@ $ pip install -r requirements.txt
 ```
 
 ## Performance (2-fold cross validation)
-Dataset|Accuracy(%)|Precision(%)|Recall(%)|F1(%)
+  Dataset|Accuracy(%)|Precision(%)|Recall(%)|F1(%)
   TCL Fall Detection|96.81%|97.09%|93.35%|95.18%
