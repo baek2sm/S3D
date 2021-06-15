@@ -11,3 +11,7 @@ $ pip install -r requirements.txt
   Dataset|Accuracy(%)|Precision(%)|Recall(%)|F1(%)
   -----|--|--|--|--
   TCL Fall Detection|96.81%|97.09%|93.35%|95.18%
+
+## Pre-trained models
+TCL pre-trained model 1fold: https://drive.google.com/file/d/1hKS8Cnw-Y4HoFvFTRop2KO0d0z1wlO_S/view?usp=sharing
+TCL pre-trained model 2fold: https://drive.google.com/file/d/1q1dFC6Efd8gNxYL-0w0TrZRpOVP9vyBT/view?usp=sharing
