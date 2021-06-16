@@ -22,5 +22,5 @@ $ pip install -r requirements.txt
   TCL Fall Detection|2|https://drive.google.com/file/d/1q1dFC6Efd8gNxYL-0w0TrZRpOVP9vyBT/view?usp=sharing
 
 ## References
-[1] Vadivelu, S.; Ganesan, S.; Murthy, O.R.; Dhall, A. Thermal imaging based elderly fall detection. In Proceedings of Asian Conference on Computer Vision, 2016, pp. 541-553.
-[2] Kim, D.-E.; Jeon, B.; Kwon, D.-S. 3D Convolutional Neural Networks based Fall Detection with Thermal Camera. The Journal of Korea Robotics Society 2018, 13, pp. 45-54.
+- [1] Vadivelu, S.; Ganesan, S.; Murthy, O.R.; Dhall, A. Thermal imaging based elderly fall detection. In Proceedings of Asian Conference on Computer Vision, 2016, pp. 541-553.
+- [2] Kim, D.-E.; Jeon, B.; Kwon, D.-S. 3D Convolutional Neural Networks based Fall Detection with Thermal Camera. The Journal of Korea Robotics Society 2018, 13, pp. 45-54.
