@@ -32,7 +32,7 @@ class S3D(nn.Module):
         self.fc7 = nn.Linear(4096, 4096)
         self.fc8 = nn.Linear(4096, 1)
 
-        self.dropout = nn.Dropout(p=0.5)
+        self.dropout = nn.Dropout(p=0.6)
 
         self.relu = nn.ReLU()
         self.sigmoid = nn.Sigmoid()
@@ -55,7 +55,13 @@ class S3D(nn.Module):
 
         out = self.relu(self.conv5a(out))
         out = self.relu(self.conv5b(out))
-        out = self.pool5(out)        
+        out = self.pool5(out)                
+        se = self.avgpool(out)
+        se = se.view(-1, se.shape[1])
+        se = self.se_fc1(se)
+        se = self.se_fc2(se)
+        se = self.sigmoid(se).view(se.shape[0], se.shape[1], 1, 1, 1)
+        out = out * se    
         
         out = out.view(-1, torch.prod(torch.FloatTensor(list(out.shape)[1:]), dtype=torch.int))
         out = self.relu(self.fc6(out))
