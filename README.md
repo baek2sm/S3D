@@ -11,7 +11,7 @@ $ pip install -r requirements.txt
   Dataset|Accuracy(%)|Precision(%)|Recall(%)|F1(%)
   -----|--|--|--|--
   Thermal Simulated Fall [1]|95.45%|97.22%|97.22%|97.22%
-  TCL Fall Detection [2]|96.81%|97.09%|93.35%|95.18%
+  TCL Fall Detection [2]|96.89%|96.59%|94.06%|95.30%
   eHomeSeniors [3]|98.37%|98.02%|98.67%|98.34%
 
 ## Pre-trained models
@@ -19,8 +19,8 @@ $ pip install -r requirements.txt
   --|-|-----
   Thermal Simulated Fall|1|https://drive.google.com/file/d/1ADHLGNFusdMyvfslD-YSFjR1smK1q-Ew/view?usp=sharing
   Thermal Simulated Fall|2|https://drive.google.com/file/d/1FJk3pFx_TL-jHTaKgCVVspX5eFpKo-zi/view?usp=sharing
-  TCL Fall Detection|1|https://drive.google.com/file/d/1hKS8Cnw-Y4HoFvFTRop2KO0d0z1wlO_S/view?usp=sharing
-  TCL Fall Detection|2|https://drive.google.com/file/d/1q1dFC6Efd8gNxYL-0w0TrZRpOVP9vyBT/view?usp=sharing
+  TCL Fall Detection|1|https://drive.google.com/file/d/16Kq9ppEZJzIrVtkZR-6ep1Td67HAaqXb/view?usp=sharing
+  TCL Fall Detection|2|https://drive.google.com/file/d/1pM9FgUlYyAlakCYA_jnOrrjm5t0jtPfy/view?usp=sharing
   eHomeSeniors|1|https://drive.google.com/file/d/1jjO1379VhbNIYTF7TyjJeUx-mtq-IyBx/view?usp=sharing
   eHomeSeniors|2|https://drive.google.com/file/d/1S1e651ohqBsjF2ar7rdlQQtwJAOiD3eZ/view?usp=sharing
 
