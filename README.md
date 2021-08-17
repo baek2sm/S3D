@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
   -----|--|--|--|--
   Thermal Simulated Fall [1]|95.45%|97.22%|97.22%|97.22%
   TCL Fall Detection [2]|96.89%|96.59%|94.06%|95.30%
-  eHomeSeniors [3]|98.37%|98.02%|98.67%|98.34%
+  eHomeSeniors [3]|98.91%|98.46%|99.33%|98.89%
 
 ## Pre-trained models
   Dataset|fold|Download link
