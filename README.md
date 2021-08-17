@@ -21,8 +21,8 @@ $ pip install -r requirements.txt
   Thermal Simulated Fall|2|https://drive.google.com/file/d/1FdpPsc8J10qalajITnyDndD9XN2L6Q_z/view?usp=sharing
   TCL Fall Detection|1|https://drive.google.com/file/d/16Kq9ppEZJzIrVtkZR-6ep1Td67HAaqXb/view?usp=sharing
   TCL Fall Detection|2|https://drive.google.com/file/d/1pM9FgUlYyAlakCYA_jnOrrjm5t0jtPfy/view?usp=sharing
-  eHomeSeniors|1|https://drive.google.com/file/d/1jjO1379VhbNIYTF7TyjJeUx-mtq-IyBx/view?usp=sharing
-  eHomeSeniors|2|https://drive.google.com/file/d/1S1e651ohqBsjF2ar7rdlQQtwJAOiD3eZ/view?usp=sharing
+  eHomeSeniors|1|https://drive.google.com/file/d/1Qp-S6L3ycsJrnPySJ1I0FfYEJcxwCuAs/view?usp=sharing
+  eHomeSeniors|2|https://drive.google.com/file/d/1kQ2Zho6-c2fQnJ7hIU656r5BpRlsCBPH/view?usp=sharing
 
 ## References
 - [1] Vadivelu, S.; Ganesan, S.; Murthy, O.R.; Dhall, A. Thermal imaging based elderly fall detection. In Proceedings of Asian Conference on Computer Vision, 2016, pp. 541-553.
