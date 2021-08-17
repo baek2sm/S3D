@@ -17,8 +17,8 @@ $ pip install -r requirements.txt
 ## Pre-trained models
   Dataset|fold|Download link
   --|-|-----
-  Thermal Simulated Fall|1|https://drive.google.com/file/d/1ADHLGNFusdMyvfslD-YSFjR1smK1q-Ew/view?usp=sharing
-  Thermal Simulated Fall|2|https://drive.google.com/file/d/1FJk3pFx_TL-jHTaKgCVVspX5eFpKo-zi/view?usp=sharing
+  Thermal Simulated Fall|1|https://drive.google.com/file/d/1gc6cbFru5ALWUkt66cFNieDUFhVA69K4/view?usp=sharing
+  Thermal Simulated Fall|2|https://drive.google.com/file/d/1FdpPsc8J10qalajITnyDndD9XN2L6Q_z/view?usp=sharing
   TCL Fall Detection|1|https://drive.google.com/file/d/16Kq9ppEZJzIrVtkZR-6ep1Td67HAaqXb/view?usp=sharing
   TCL Fall Detection|2|https://drive.google.com/file/d/1pM9FgUlYyAlakCYA_jnOrrjm5t0jtPfy/view?usp=sharing
   eHomeSeniors|1|https://drive.google.com/file/d/1jjO1379VhbNIYTF7TyjJeUx-mtq-IyBx/view?usp=sharing
