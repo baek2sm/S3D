@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 ## Performance (2-fold cross validation)
   Dataset|Accuracy(%)|Precision(%)|Recall(%)|F1(%)
   -----|--|--|--|--
-  Thermal Simulated Fall [1]|95.45%|97.22%|97.22%|97.22%
+  Thermal Simulated Fall [1]|95.45%|97.14%|97.14%|97.14%
   TCL Fall Detection [2]|96.89%|96.59%|94.06%|95.30%
   eHomeSeniors [3]|98.91%|98.46%|99.33%|98.89%
 
