@@ -1,5 +1,11 @@
 # S3D
-Squeeze and Excitation 3D Convolutional Neural Networks for Fall Detection System
+Squeeze and Excitation 3D Convolutional Neural Networks for Fall Detection System. This project is currently being written in a paper.
+
+<div align="center">
+<img width="486" alt="se_3d" src="https://user-images.githubusercontent.com/30026090/141882787-5ec2f40c-d857-4347-83f8-4fa098accf34.png">
+![s3d](https://user-images.githubusercontent.com/30026090/141882885-f2eac6fd-0e5c-4824-9b04-c61e9ecc646d.png)
+
+</div>
 
 ## Requirements
 Python 3.8 or later with all [requirements.txt](https://github.com/baek2sm/S3D/blob/master/requirements.txt) dependencies installed. To install run:
