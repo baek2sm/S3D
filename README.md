@@ -1,7 +1,7 @@
 # S3D
 Squeeze and Excitation 3D Convolutional Neural Networks for Fall Detection System. Any works that uses the provided pretrained network must acknowledge the authors by including the following reference.
 ```bash
-Seung Baek Hong, Yu Hwan Kim, Se Hyun Nam and Kang Ryoung Park, "S3D: Squeeze and Excitation 3D Convolutional Neural Net-works for Fall Detection System" in submission
+Seung Baek Hong, Yu Hwan Kim, Se Hyun Nam and Kang Ryoung Park, "S3D: Squeeze and Excitation 3D Convolutional Neural Net-works for Fall Detection System", Mathematics, in submission.
 ```
 
 <div align="center">
